@@ -67,34 +67,36 @@
   <component name="PhpServers">
     <servers />
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="1124" />
     <option name="y" value="27" />
     <option name="width" value="796" />
     <option name="height" value="1053" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="139" />
+    <option name="y" value="211" />
+    <option name="width" value="813" />
+    <option name="height" value="789" />
+>>>>>>> origin/master
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="calendario" type="b2602c69:ProjectViewProjectNode" />
-              <item name="calendario" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$USER_HOME$/Escritorio/calendario-devcode" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> origin/master
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -121,13 +123,20 @@
       <option name="presentableId" value="Default" />
       <updated>1550738785845</updated>
       <workItem from="1550738787080" duration="2908000" />
+<<<<<<< HEAD
       <workItem from="1550748362173" duration="966000" />
       <workItem from="1550749342523" duration="357000" />
       <workItem from="1550749767571" duration="1107000" />
+=======
+      <workItem from="1550748362173" duration="569000" />
+      <workItem from="1550753025911" duration="34000" />
+      <workItem from="1550753083806" duration="427000" />
+>>>>>>> origin/master
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="7247000" />
   </component>
   <component name="ToolWindowManager">
@@ -136,6 +145,16 @@
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" weight="0.3024453" />
+=======
+    <option name="totallyTimeSpent" value="5847000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="139" y="211" width="813" height="789" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.14080834" />
+>>>>>>> origin/master
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
@@ -156,7 +175,11 @@
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3024453" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14080834" />
+>>>>>>> origin/master
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
